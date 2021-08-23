@@ -1,4 +1,4 @@
-$url = "https://download.sysinternals.com/files/BGInfo.zip"
+$url = "https://github.com/leejennings/BGInfo/blob/main/BGInfo.zip"
 $outpath = "c:\IT\BGInfo.zip"
 $path = "C:\IT"
 
